@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IceLockView">
+        <attr name="ice_dotColor" format="color" />
+        <attr name="ice_lineColor" format="color" />
+        <attr name="ice_selectedDotColor" format="color" />
+        <attr name="ice_selectedLineColor" format="color" />
+    </declare-styleable>
+</resources>

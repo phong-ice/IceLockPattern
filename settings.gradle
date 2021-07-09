@@ -1,0 +1,2 @@
+rootProject.name = "LockPattern"
+include ':app'
